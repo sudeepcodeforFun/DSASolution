@@ -1,12 +1,5 @@
 public class PrintxtoPowern {
     
-    // public static int powerN(int n, int power){
-    //     if(power==1){
-    //         return n;
-    //     }
-    //     return n*powerN(n, power-1);
-    // }
-
     public static double powerN(double n, int power){
         if(power == 0){
             return 1;
