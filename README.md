@@ -12,3 +12,6 @@ This is the platform to learn Data Structure and algorithm.
 16-jan-2024 completed Bit Manipulation
 <br>
 31-jan-2024 completed Recursion
+<br>
+17-feb-2024 completed Divide and Conquer
+
