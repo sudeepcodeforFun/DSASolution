@@ -14,4 +14,8 @@ This is the platform to learn Data Structure and algorithm.
 31-jan-2024 completed Recursion
 <br>
 17-feb-2024 completed Divide and Conquer
+<br>
+20-feb-2024 completed Time complexity
+<br>
+26-feb-2024 completed Backtracking
 
