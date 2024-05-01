@@ -22,5 +22,7 @@ This is the platform to learn Data Structure and algorithm.
 due to some sem work and other personal stuff it's delayed a lot (06-03-24 to 26-04-24) But from now again Start Grinding.
 <br>
 19-apr-2024 completed Linked List
+<br>
+01-may-2024 completed Stack
 
 
