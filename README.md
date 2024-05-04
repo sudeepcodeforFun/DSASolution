@@ -24,5 +24,7 @@ due to some sem work and other personal stuff it's delayed a lot (06-03-24 to 26
 19-apr-2024 completed Linked List
 <br>
 01-may-2024 completed Stack
+<br>
+05-may-2024 completed Queue
 
 
